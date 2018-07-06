@@ -4,7 +4,8 @@ def using_for
 	#your code here
 	
 	for check in checklist
-	  puts 
+	  puts  "Wingardium Leviosa"
+	 end
 end
 
 
